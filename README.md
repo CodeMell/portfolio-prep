@@ -3,4 +3,4 @@ Hello im an upcoming game dev in memphis. I like to practice 3D modling, game de
 
 # Projects
 ## [GameDemo](https://codemell.github.io/GameDemo/)
-![GameDemo](https://github.com/CodeMell/portfolio-prep/blob/main/Screenshot%202023-04-17%20084140.jpg)
+![GameDemo](Screenshot%202023-04-17%20084140.jpg)
